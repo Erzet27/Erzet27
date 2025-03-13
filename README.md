@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+Hello there my name is Erzet27...the name came from my usual IGN and my favorite number the combination making it perfect to fill in so i have a unique Username (LoL)....For now this is the list of my activity and interest:
+- 🔭 I’m currently working on a horror game for my final project which utilize A* pathfinding (still not an expert yet but ill keep trying)
+- 🌱 I’m currently learning about AI in general still at early stages.
+- 🤔 I’m looking for help with game development especially in Unity and all about AI (game AI and even day to day AI, machine learning and all)
 <!--
 **Erzet27/Erzet27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
